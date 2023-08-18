@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h1 align="center">Hi 👋, I'm peachy</h1>
 <h3 align="center">High school student with a passion for coding!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peachy9999&label=Profile%20views&color=0e75b6&style=flat" alt="peachy9999" /> </p>
